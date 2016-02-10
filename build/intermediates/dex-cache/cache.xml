@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ioannis.D\Desktop\IoanzaimGmailComSProxi9Bt\app\build\intermediates\exploded-aar\com.estimote\sdk\0.9.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3f2bd7d626b065e0960be2404e0af133e7b179b">
+        <dex dex="C:\Users\Ioannis.D\Desktop\IoanzaimGmailComSProxi9Bt\app\build\intermediates\pre-dexed\debug\classes-f6b6a3f7e706f02194b48844f41acb9aac6c2f9f.jar" />
+    </item>
+
+</items>
